@@ -1,0 +1,11 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1670131232390,74,HTTP 请求,200,,线程组 1-1,text,true,,710,200,1,1,http://172.16.3.190:8080/customer/products?name=欢乐家蜜桔&type=manual,65,0,23
+1670131233302,27,HTTP 请求,200,,线程组 1-2,text,true,,710,200,1,1,http://172.16.3.190:8080/customer/products?name=欢乐家蜜桔&type=manual,27,0,2
+1670131234303,25,HTTP 请求,200,,线程组 1-3,text,true,,710,200,1,1,http://172.16.3.190:8080/customer/products?name=欢乐家蜜桔&type=manual,25,0,2
+1670131235304,27,HTTP 请求,200,,线程组 1-4,text,true,,710,200,1,1,http://172.16.3.190:8080/customer/products?name=欢乐家蜜桔&type=manual,27,0,2
+1670131236291,28,HTTP 请求,200,,线程组 1-5,text,true,,710,200,1,1,http://172.16.3.190:8080/customer/products?name=欢乐家蜜桔&type=manual,28,0,2
+1670131237291,25,HTTP 请求,200,,线程组 1-6,text,true,,710,200,1,1,http://172.16.3.190:8080/customer/products?name=欢乐家蜜桔&type=manual,25,0,1
+1670131238294,26,HTTP 请求,200,,线程组 1-7,text,true,,710,200,1,1,http://172.16.3.190:8080/customer/products?name=欢乐家蜜桔&type=manual,26,0,2
+1670131239290,25,HTTP 请求,200,,线程组 1-8,text,true,,710,200,1,1,http://172.16.3.190:8080/customer/products?name=欢乐家蜜桔&type=manual,25,0,1
+1670131240290,24,HTTP 请求,200,,线程组 1-9,text,true,,710,200,1,1,http://172.16.3.190:8080/customer/products?name=欢乐家蜜桔&type=manual,24,0,2
+1670131241290,24,HTTP 请求,200,,线程组 1-10,text,true,,710,200,1,1,http://172.16.3.190:8080/customer/products?name=欢乐家蜜桔&type=manual,24,0,1
